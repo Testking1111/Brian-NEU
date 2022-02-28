@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x38CC208F9b1CABCc21cEE640Ba24b5Eba00461eb",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x38cc208f9b1cabcc21cee640ba24b5eba00461eb",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnetwork",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Brian NFTs by Braindom ™ Games",
+  "SYMBOL": "BNFT",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
